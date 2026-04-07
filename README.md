@@ -22,3 +22,6 @@ This project analyzes a music store database using SQL to extract business insig
 ## 🚀 Skills
 - SQL (JOIN, GROUP BY, Subqueries)
 - Data Analysis
+- schema
+  <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/bcfa9145-8832-4e99-b50b-2d1c39b201f7" />
+
